@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I am new to coding! Looking to learn more! 👋
 
 <!--
 **tlu8592/tlu8592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
