@@ -1,16 +1,9 @@
-### Welcome to my GitHub profile! 👋
+### Welcome to my GitHub profile! 👋 My name is Tony Lu.
 
-## My name is Tony Lu.
-My background is in operatic choral and church performance.
-I started Full Stack Web Development in 2020 because I enjoy playing typing games. Since that's the case, why not be productive on the computer?
+My background is in operatic choral and church performance. I started React Full Stack Dev in 2020 because I enjoy playing typing games. Since that's the case, why not be productive on the computer? Some of the skills I've picked up after dozens of projects:
 
-Some of the most exciting things I've been learning about in my new career are building a web app and adding security features to a web app.
-
-Here are a few of the skills I've picked up after completing dozens of projects:
-  
-  **Front End**: React.js, Redux, Hooks, Context API, Yup, Jest, Cypress, Axios, JavaScript, HTML, CSS, Netlify
-  
-  **Back End**: Node.js, Express, Knex, SQL, SQLite3, Git CLI, GitHub, VS Code, REST APIs, Debugging, Deployment, Heroku
+<li>Front End: React.js, Redux, Hooks, Context API, Yup, Jest, Cypress, Axios, JavaScript, HTML, CSS, Netlify</li>
+<li>Back End: Node.js, Express, Knex, SQL, SQLite3, Git CLI, GitHub, VS Code, REST APIs, Debugging, Deployment, Heroku</li>
 
 <!--
 **tlu8592/tlu8592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
